@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.Sembo.web.app</groupId>
 	<artifactId>SemboWebStatistics</artifactId>
-	<version>0.0.1</version>
+	<version>1</version>
 	<name>SemboWebStatistics</name>
 	<description>Sembo web statistics project</description>
 	<properties>
